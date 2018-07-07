@@ -1,0 +1,22 @@
+<%- include('../common/header.html') %>
+	<table width="100%" border="0">
+		<tr>
+			<th align="left" colspan="2" style="padding:10px 0">Account Information</th>
+		</tr>
+		<tr>
+			<td>Name</td><td><%= user.name %></td>
+		</tr>
+		<tr>
+			<td>Email</td><td><%= user.email %></td>
+		</tr>
+		<tr>
+			<td>Username</td><td><%= user.username %></td>
+		</tr>
+		<tr>
+			<td>Password</td><td><%= password %></td>
+		</tr>
+		<tr>
+			<td>Status</td><td><%= user.status.toUpperCase() %></td>
+		</tr>
+	</table>
+<%- include('../common/footer.html') %>

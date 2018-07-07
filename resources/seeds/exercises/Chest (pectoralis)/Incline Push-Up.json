@@ -1,0 +1,15 @@
+{
+  "images": [
+    "https://www.bodybuilding.com/exercises/exerciseImages/sequences/883/Male/m/883_1.jpg",
+    "https://www.bodybuilding.com/exercises/exerciseImages/sequences/883/Male/m/883_2.jpg"
+  ],
+  "name": "Incline Push-Up",
+  "link": "/exercises/incline-push-up",
+  "targetMuscle": "Chest (pectoralis)",
+  "equipmentType": "Body Only",
+  "rating": "8.8",
+  "type": "Strength",
+  "level": "Beginner",
+  "video": "https://videos.bodybuilding.com/video/mp4/98000/99782m.mp4",
+  "description": "\n        <p></p><ol class=\"ExDetail-descriptionSteps\"><li class=\"ExDetail-descriptionStep\">Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width. </li><li class=\"ExDetail-descriptionStep\">Position forefoot back from bench or platform with arms and body straight. Arms should be perpendicular to body. Keeping body straight, lower chest to edge of box or platform by bending arms.</li><li class=\"ExDetail-descriptionStep\"> Push body up until arms are extended. Repeat.</li></ol><p></p>\n      "
+}

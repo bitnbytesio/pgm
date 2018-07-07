@@ -1,0 +1,45 @@
+{
+  "name": "pgm",
+  "version": "0.1.0",
+  "description": "Pluto Gym Managment System by Pluto Softwares",
+  "main": "pgm.js",
+  "bin": {
+    "server": "pgm.js"
+  },
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "chalk": "^2.4.1",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.6.1",
+    "glob": "^7.1.2",
+    "koa": "^2.5.1",
+    "koa-body": "^2.6.0",
+    "koa-convert": "^1.2.0",
+    "koa-logger": "^3.2.0",
+    "koa-res": "^1.3.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.3",
+    "koa-validation": "^0.1.9",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.22.2",
+    "mongoose": "^4.13.14",
+    "node-input-validator": "^1.2.2",
+    "nodemailer": "^4.6.7",
+    "rand-token": "^0.4.0"
+  },
+  "scripts": {
+    "serve": "node ./pgm.js",
+    "fresh-install": "node ./install.js"
+  },
+  "author": [
+    {
+      "name": "Harcharan Singh",
+      "email": "artisangang@gmail.com"
+    },
+    {
+      "name": "Arpit Aggarwal",
+      "email": "aggarwalarpit93@gmail.com"
+    }
+  ],
+  "license": "ISC"
+}
